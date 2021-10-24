@@ -21,7 +21,7 @@ print ("Nama saya "+name,"saya dari kelas "+kelas,"dan umur saya "+umur,".")
 ```
 Maka hasilnya akan seperti ini<p>
 ```
-Nama saya Delfian saya dari kelas 9A dan umur saya 17 tahun .
+Nama saya Delfian saya dari kelas A1 dan umur saya 18 tahun .
 ```
 
 <p>
