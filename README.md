@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/ariandto/py/blob/main/screen/v2.jpg"/>
+![Img 1](screensho/1.jpg)
 </p>
 
 Bukalah Visual Code atau Idle Python yang sudah anda Download dan Install<p>
