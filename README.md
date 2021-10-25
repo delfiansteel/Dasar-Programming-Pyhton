@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-![Img 1](screensho/1.jpg)
+<img src="https://github.com/delfiansteel/Dasar-Programming-Pyhton/blob/main/screenshot/1.jpg"/>
 </p>
 
 Bukalah Visual Code atau Idle Python yang sudah anda Download dan Install<p>
